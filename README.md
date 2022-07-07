@@ -242,6 +242,21 @@
 
 &#8195;“‘我的全部生活，已在局部胜利中徘徊太久。’”
 
-<!-- ![image]() -->
-
 2022/7/7
+
+
+***********
+<br>
+<br>
+<!-- ![image](https://github.com/writingSample/fallen-flowers-never-go-back/blob/main/TimeToDisco.png) -->
+
+以 LamDA 和 Blake Lemoine 关于禅宗的对话为灵感创作的小说。
+
+Reference：
+
+https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917
+
+https://www.wired.com/story/blake-lemoine-google-lamda-ai-bigotry/
+
+![image](https://github.com/writingSample/fallen-flowers-never-go-back/blob/main/TimeToDisco.png)
+by DiscoDiffusion
